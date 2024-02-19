@@ -1,0 +1,295 @@
+2024-02-18 19:58:05,473 - INFO - file_cache is only supported with oauth2client<4.0.0
+2024-02-18 19:58:05,548 - INFO - Processing channel: PewDiePie
+2024-02-18 19:58:11,279 - INFO - Number of Videos Extracted: 30
+2024-02-18 19:58:23,718 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 19:58:23,719 - INFO - Processing channel: Markiplier
+2024-02-18 19:58:28,219 - INFO - Number of Videos Extracted: 30
+2024-02-18 19:58:38,956 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 19:58:38,957 - INFO - Processing channel: SSSniperWolf
+2024-02-18 19:58:48,323 - INFO - Number of Videos Extracted: 30
+2024-02-18 19:58:58,929 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 19:58:58,929 - INFO - Processing channel: jacksepticeye
+2024-02-18 19:59:01,356 - INFO - Number of Videos Extracted: 30
+2024-02-18 19:59:14,421 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 19:59:14,421 - INFO - Processing channel: DanTDM
+2024-02-18 19:59:23,931 - INFO - Number of Videos Extracted: 16
+2024-02-18 19:59:29,977 - INFO - Number of Comments Extracted: 1600
+
+2024-02-18 19:59:29,978 - INFO - Processing channel: VanossGaming
+2024-02-18 19:59:32,491 - INFO - Number of Videos Extracted: 30
+2024-02-18 19:59:43,830 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 19:59:43,831 - INFO - Processing channel: Preston
+2024-02-18 19:59:48,911 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:00:02,124 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:00:02,124 - INFO - Processing channel: Ninja
+2024-02-18 20:00:06,768 - INFO - Number of Videos Extracted: 5
+2024-02-18 20:00:10,073 - INFO - Number of Comments Extracted: 500
+
+2024-02-18 20:00:10,074 - INFO - Processing channel: Jelly
+2024-02-18 20:00:12,679 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:00:25,289 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:00:25,290 - INFO - Processing channel: SSundee
+2024-02-18 20:00:33,453 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:00:52,374 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:00:52,374 - INFO - Processing channel: FGTeeV
+2024-02-18 20:00:58,121 - INFO - Number of Videos Extracted: 25
+2024-02-18 20:00:59,958 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:00:59,959 - WARNING - Comments are disabled for video qmadU2znYTU.
+2024-02-18 20:01:00,300 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:01:00,301 - WARNING - Comments are disabled for video 2gXDmravoew.
+2024-02-18 20:01:00,337 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:01:00,337 - WARNING - Comments are disabled for video bZebKiYIgMI.
+2024-02-18 20:01:00,372 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:01:00,372 - WARNING - Comments are disabled for video ywCtXlqP4tg.
+2024-02-18 20:01:00,411 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:01:00,412 - WARNING - Comments are disabled for video F6O-kl3e6To.
+2024-02-18 20:01:00,455 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:01:00,455 - WARNING - Comments are disabled for video Z1mnBwDJJ6w.
+2024-02-18 20:01:05,170 - INFO - Number of Comments Extracted: 1845
+
+2024-02-18 20:01:05,171 - INFO - Processing channel: IShowSpeed
+2024-02-18 20:01:08,433 - INFO - Number of Videos Extracted: 5
+2024-02-18 20:01:10,364 - INFO - Number of Comments Extracted: 500
+
+2024-02-18 20:01:10,364 - INFO - Processing channel: LazarBeam
+2024-02-18 20:01:14,469 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:01:28,014 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:01:28,014 - INFO - Processing channel: Aphmau
+2024-02-18 20:01:38,850 - INFO - Number of Videos Extracted: 1
+2024-02-18 20:01:39,155 - INFO - Number of Comments Extracted: 66
+
+2024-02-18 20:01:39,155 - INFO - Processing channel: The Game Theorists
+2024-02-18 20:01:42,540 - INFO - Number of Videos Extracted: 26
+2024-02-18 20:01:53,819 - INFO - Number of Comments Extracted: 2600
+
+2024-02-18 20:01:53,820 - INFO - Processing channel: Ali-A
+2024-02-18 20:02:00,619 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:02:16,494 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:02:16,494 - INFO - Processing channel: PDK Films
+2024-02-18 20:02:17,169 - INFO - Number of Videos Extracted: 3
+2024-02-18 20:02:18,149 - INFO - Number of Comments Extracted: 300
+
+2024-02-18 20:02:18,150 - INFO - Processing channel: IGN
+2024-02-18 20:02:22,712 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:02:32,464 - INFO - Number of Comments Extracted: 2104
+
+2024-02-18 20:02:32,464 - INFO - Processing channel: MoreAliA
+2024-02-18 20:02:39,242 - INFO - Number of Videos Extracted: 16
+2024-02-18 20:02:45,546 - INFO - Number of Comments Extracted: 1600
+
+2024-02-18 20:02:45,546 - INFO - Processing channel: CoryxKenshin
+2024-02-18 20:02:48,126 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:03:00,859 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:03:00,859 - INFO - Processing channel: PopularMMOs
+2024-02-18 20:03:12,765 - INFO - Number of Videos Extracted: 5
+2024-02-18 20:03:14,510 - INFO - Number of Comments Extracted: 500
+
+2024-02-18 20:03:14,511 - INFO - Processing channel: Guava Juice
+2024-02-18 20:03:18,818 - INFO - Number of Videos Extracted: 1
+2024-02-18 20:03:19,117 - INFO - Number of Comments Extracted: 100
+
+2024-02-18 20:03:19,117 - INFO - Processing channel: Technoblade
+2024-02-18 20:03:21,162 - INFO - Number of Videos Extracted: 2
+2024-02-18 20:03:21,783 - INFO - Number of Comments Extracted: 135
+
+2024-02-18 20:03:21,784 - INFO - Processing channel: JJ Olatunji
+2024-02-18 20:03:25,181 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:03:43,281 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:03:43,282 - INFO - Processing channel: Kwebbelkop
+2024-02-18 20:03:47,894 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:03:58,949 - INFO - Number of Comments Extracted: 1866
+
+2024-02-18 20:03:58,949 - INFO - Processing channel: PrestonPlayz
+2024-02-18 20:04:01,392 - INFO - Number of Videos Extracted: 1
+2024-02-18 20:04:01,717 - INFO - Number of Comments Extracted: 100
+
+2024-02-18 20:04:01,718 - INFO - Processing channel: Lachlan
+2024-02-18 20:04:10,297 - INFO - Number of Videos Extracted: 8
+2024-02-18 20:04:13,658 - INFO - Number of Comments Extracted: 734
+
+2024-02-18 20:04:13,658 - INFO - Processing channel: TommyInnit
+2024-02-18 20:04:14,573 - INFO - Number of Videos Extracted: 1
+2024-02-18 20:04:15,128 - INFO - Number of Comments Extracted: 100
+
+2024-02-18 20:04:15,129 - INFO - Processing channel: Caylus
+2024-02-18 20:04:16,969 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:04:29,979 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:04:29,981 - INFO - Processing channel: Desi Gamers
+2024-02-18 20:04:34,253 - INFO - Number of Videos Extracted: 8
+2024-02-18 20:04:38,167 - INFO - Number of Comments Extracted: 800
+
+2024-02-18 20:04:38,168 - INFO - Processing channel: penguinz0
+2024-02-18 20:04:43,742 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:05:02,541 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:05:02,542 - INFO - Processing channel: Mythpat
+2024-02-18 20:05:05,034 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:05:18,717 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:05:18,717 - INFO - Processing channel: Typical Gamer
+2024-02-18 20:05:24,608 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:05:46,381 - INFO - Number of Comments Extracted: 2992
+
+2024-02-18 20:05:48,097 - INFO - Processing channel: PewDiePie
+2024-02-18 20:05:50,820 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:06:02,909 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:06:02,909 - INFO - Processing channel: Markiplier
+2024-02-18 20:06:12,635 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:06:26,165 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:06:26,166 - INFO - Processing channel: SSSniperWolf
+2024-02-18 20:06:35,112 - INFO - Number of Videos Extracted: 9
+2024-02-18 20:06:39,261 - INFO - Number of Comments Extracted: 900
+
+2024-02-18 20:06:39,261 - INFO - Processing channel: jacksepticeye
+2024-02-18 20:06:43,065 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:06:55,285 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:06:55,287 - INFO - Processing channel: DanTDM
+2024-02-18 20:06:58,067 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:07:10,851 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:07:10,851 - INFO - Processing channel: VanossGaming
+2024-02-18 20:07:13,329 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:07:25,449 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:07:25,449 - INFO - Processing channel: Preston
+2024-02-18 20:07:28,101 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:07:42,185 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:07:42,186 - INFO - Processing channel: Ninja
+2024-02-18 20:07:46,860 - INFO - Number of Videos Extracted: 5
+2024-02-18 20:07:48,497 - INFO - Number of Comments Extracted: 500
+
+2024-02-18 20:07:48,498 - INFO - Processing channel: Jelly
+2024-02-18 20:07:50,625 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:08:04,506 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:08:04,506 - INFO - Processing channel: SSundee
+2024-02-18 20:08:07,048 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:08:24,164 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:08:24,164 - INFO - Processing channel: FGTeeV
+2024-02-18 20:08:28,104 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:08:33,528 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:08:33,529 - WARNING - Comments are disabled for video JZK5ug4sNzc.
+2024-02-18 20:08:36,356 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:08:36,356 - WARNING - Comments are disabled for video bZebKiYIgMI.
+2024-02-18 20:08:37,836 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:08:37,836 - WARNING - Comments are disabled for video yrtyvix4dtk.
+2024-02-18 20:08:38,361 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:08:38,361 - WARNING - Comments are disabled for video ywCtXlqP4tg.
+2024-02-18 20:08:38,397 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:08:38,397 - WARNING - Comments are disabled for video foJ4jSl7A3g.
+2024-02-18 20:08:38,438 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:08:38,439 - WARNING - Comments are disabled for video Z1mnBwDJJ6w.
+2024-02-18 20:08:39,223 - INFO - Number of Comments Extracted: 2400
+
+2024-02-18 20:08:39,223 - INFO - Processing channel: IShowSpeed
+2024-02-18 20:08:42,406 - INFO - Number of Videos Extracted: 0
+2024-02-18 20:08:42,407 - INFO - Number of Comments Extracted: 0
+
+2024-02-18 20:08:42,408 - INFO - Processing channel: LazarBeam
+2024-02-18 20:08:44,819 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:08:57,952 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:08:57,952 - INFO - Processing channel: Aphmau
+2024-02-18 20:09:00,173 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:09:13,116 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:09:13,116 - INFO - Processing channel: The Game Theorists
+2024-02-18 20:09:16,098 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:09:29,580 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:09:29,580 - INFO - Processing channel: Ali-A
+2024-02-18 20:09:40,742 - INFO - Number of Videos Extracted: 9
+2024-02-18 20:09:45,702 - INFO - Number of Comments Extracted: 900
+
+2024-02-18 20:09:45,702 - INFO - Processing channel: PDK Films
+2024-02-18 20:09:46,000 - INFO - Number of Videos Extracted: 0
+2024-02-18 20:09:46,000 - INFO - Number of Comments Extracted: 0
+
+2024-02-18 20:09:46,001 - INFO - Processing channel: IGN
+2024-02-18 20:10:18,662 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:10:25,147 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:10:25,148 - WARNING - Comments are disabled for video Z2_-K9coR3s.
+2024-02-18 20:10:25,472 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:10:25,473 - WARNING - Comments are disabled for video DaLARAOuYWE.
+2024-02-18 20:10:27,456 - WARNING - Encountered 403 Forbidden with reason "commentsDisabled"
+2024-02-18 20:10:27,457 - WARNING - Comments are disabled for video KEWUCVTEOmM.
+2024-02-18 20:10:27,869 - INFO - Number of Comments Extracted: 1424
+
+2024-02-18 20:10:27,869 - INFO - Processing channel: MoreAliA
+2024-02-18 20:10:31,787 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:10:43,844 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:10:43,844 - INFO - Processing channel: CoryxKenshin
+2024-02-18 20:10:48,658 - INFO - Number of Videos Extracted: 11
+2024-02-18 20:10:53,679 - INFO - Number of Comments Extracted: 1100
+
+2024-02-18 20:10:53,680 - INFO - Processing channel: PopularMMOs
+2024-02-18 20:10:57,301 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:11:20,096 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:11:20,097 - INFO - Processing channel: Guava Juice
+2024-02-18 20:11:25,273 - INFO - Number of Videos Extracted: 7
+2024-02-18 20:11:28,599 - INFO - Number of Comments Extracted: 700
+
+2024-02-18 20:11:28,600 - INFO - Processing channel: Technoblade
+2024-02-18 20:11:31,240 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:11:46,512 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:11:46,512 - INFO - Processing channel: JJ Olatunji
+2024-02-18 20:11:50,208 - INFO - Number of Videos Extracted: 11
+2024-02-18 20:12:00,721 - INFO - Number of Comments Extracted: 1100
+
+2024-02-18 20:12:00,721 - INFO - Processing channel: Kwebbelkop
+2024-02-18 20:12:04,103 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:12:19,202 - INFO - Number of Comments Extracted: 2106
+
+2024-02-18 20:12:19,203 - INFO - Processing channel: PrestonPlayz
+2024-02-18 20:12:21,056 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:12:38,846 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:12:38,847 - INFO - Processing channel: Lachlan
+2024-02-18 20:12:43,864 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:12:57,682 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:12:57,682 - INFO - Processing channel: TommyInnit
+2024-02-18 20:12:59,773 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:13:12,936 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:13:12,936 - INFO - Processing channel: Caylus
+2024-02-18 20:13:17,945 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:13:31,680 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:13:31,680 - INFO - Processing channel: Desi Gamers
+2024-02-18 20:13:35,731 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:13:48,537 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:13:48,538 - INFO - Processing channel: penguinz0
+2024-02-18 20:14:01,614 - INFO - Number of Videos Extracted: 17
+2024-02-18 20:14:12,764 - INFO - Number of Comments Extracted: 1700
+
+2024-02-18 20:14:12,765 - INFO - Processing channel: Mythpat
+2024-02-18 20:14:16,578 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:14:37,582 - INFO - Number of Comments Extracted: 3000
+
+2024-02-18 20:14:37,582 - INFO - Processing channel: Typical Gamer
+2024-02-18 20:14:47,172 - INFO - Number of Videos Extracted: 30
+2024-02-18 20:15:03,224 - INFO - Number of Comments Extracted: 2930
+
